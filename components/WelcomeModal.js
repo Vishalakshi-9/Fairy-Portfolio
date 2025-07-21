@@ -66,7 +66,7 @@ export default function WelcomeModal({ onClose }) {
             onClick={handleAccept}
             className="bg-blue-950 hover:bg-blue-100 text-white hover:text-blue-950 px-4 py-2 rounded-lg shadow-md transition duration-300 cursor-pointer"
           >
-            Yes! Let's Go...
+            Yes! Let&apos;s Go...
           </button>
           {/* <button
             onClick={handleDecline}
