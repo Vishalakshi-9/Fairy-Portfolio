@@ -44,7 +44,7 @@ export default function ContactSection() {
               src="/images/owl.png"
               alt="Owl Messenger"
               width={150}
-              height={150}
+              height={150} 
               className="hover:scale-105 transition-transform drop-shadow-[0_0_20px_#fff] mt-10"
             />
             <p className="mt-2 text-sm italic text-white">Click the owl to send a message ✨</p>
