@@ -72,7 +72,7 @@ export default function ProjectsSection() {
                   className="bg-white/90 rounded-xl p-4 shadow-xl text-left text-rose-800 backdrop-blur-md mt-4 max-w-sm "
                 >
                   <h3 className="text-xl font-bold mb-2">{project.title}</h3>
-                  <Image src={project.img} width={700} height={700} />
+                  <Image src={project.img} width={700} height={700} alt="" />
                   <ul className="text-sm mb-3 list-disc list-inside space-y-1">
                     {project.description.map((point, idx) => (
                       <li key={idx}>{point}</li>
