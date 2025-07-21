@@ -17,7 +17,7 @@ export default function AboutSection() {
           🌼 About Me
         </h2>
         <p className="text-lg text-yellow-100 font-light leading-relaxed">
-          Hi, I'm <strong>Vishalakshi Kumari</strong>, a B.Tech student in Computer Science & Engineering at KIIT, with a passion for transforming code into beautiful, intuitive experiences. I'm an aspiring software developer who loves solving real-world problems through clean, efficient code.
+          Hi, I&apos;sm <strong>Vishalakshi Kumari</strong>, a B.Tech student in Computer Science & Engineering at KIIT, with a passion for transforming code into beautiful, intuitive experiences. I'm an aspiring software developer who loves solving real-world problems through clean, efficient code.
         </p>
         <p className="text-lg text-yellow-100 font-light mt-4">
           I enjoy building creative UIs, experimenting with animation and design, and working on products that feel magical and meaningful. When I’m not coding, you’ll find me exploring ideas, sipping tea, or solving LeetCode challenges. Thanks for stopping by — I hope my portfolio brings a bit of bloom and wonder to your day! 🌼
